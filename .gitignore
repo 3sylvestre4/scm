@@ -1,2 +1,3 @@
 # ignore any file that ends with .txt
 *.txt
+toBeignored.js
