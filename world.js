@@ -1,1 +1,1 @@
-console.log("world");
+if (true) console.log("world");
